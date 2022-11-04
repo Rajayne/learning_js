@@ -23,3 +23,5 @@ function randomGame() {
         }
     }, 1000);
 }
+
+//No
